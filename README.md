@@ -1,4 +1,4 @@
-# 🌐 Agrinho 202
+# 🌐 Agrinho 2026
 
 Este projeto é um site simples que apresenta textos explicativos sobre:
 - **Agropecuária Sustentável**: como a tecnologia pode ajudar a reduzir desperdícios e aumentar a produtividade de forma responsável.
